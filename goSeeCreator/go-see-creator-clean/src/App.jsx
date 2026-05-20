@@ -127,15 +127,11 @@ export default function App() {
           </p>
 
           <h2 className="text-5xl font-semibold leading-tight md:text-7xl">
-            Building thoughtful digital experiences rooted in clarity,
-            emotion, and structure.
+            Building human-centered digital experiences rooted in emotion, clarity, and structure.
           </h2>
 
           <p className="mt-8 max-w-2xl text-lg text-white/80 md:text-xl">
-            Frontend developer, systems-focused builder, and creative
-            agent designing meaningful experiences for people, brands,
-            and organizations.
-          </p>
+Frontend-focused developer combining systems thinking, intentional design, and intuitive digital experiences for individuals, small businesses, and mission-driven organizations.          </p>
 
           <div className="mt-10 flex flex-wrap gap-4">
             <a

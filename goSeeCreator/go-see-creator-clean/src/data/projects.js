@@ -8,48 +8,58 @@ export const projects = [
         slug: 'calm-parents-confident-kids',
 
         description:
-            'A thoughtful digital platform focused on emotional clarity and parenting support.',
-
+'Rebuilding a collaborative parenting platform in React as a case study in scalable frontend development and emotionally grounded UX.',
         image: calmParentsConfidentKids,
 
         overview: [
-            'Calm Parents Confident Kids is a digital platform designed to support parents in building emotionally grounded homes through connection, clarity, and intentional parenting practices.',
-            'The vision behind the project was to create a calm digital environment that felt emotionally safe, approachable, and trustworthy while still maintaining a modern and professional structure.',
-            'The platform was designed with accessibility, readability, and emotional usability in mind.'],
-        expectations: [
-            'I initially expected the project to function primarily as a straightforward informational website.',
-            'I believed the biggest challenge would be organizing content and creating a clean layout.',
-            'As development progressed, I realized the emotional tone of the experience mattered just as much as the technical structure.',
-            'The project evolved into designing not only a website, but an atmosphere.'
+            'I took on this project to help support the launch of Calm Parents Confident Kids, a collaborative book written by 14 authors from different professional and personal backgrounds. Each contributor shared their experience with braintraining, the Articulating Reticular System, and the impact those practices had on their mindset, relationships, parenting, and personal growth.',
+            'The website served multiple purposes. It introduced the book, highlighted each author, showcased their individual businesses or personal brands, and acted as a central place for visitors to learn more about the project and upcoming launch events. Looking back, it functioned not only as a book launch website, but also as a collaborative marketing campaign.',
+            'The project was originally built using a drag and drop builder and included a homepage, meet the authors section, book launch showcase, and resource page. At the time, I had very little experience with web design systems, frontend structure, or user experience thinking. My approach was driven almost entirely by curiosity and experimentation.',
+            'Although the final result lacked cohesion in many areas, the project became a foundational turning point in how I understood design, frontend development, and digital user experiences.'
         ],
-
+        expectations: [
+            'Going into the project, my primary goal was simple: create something visually exciting and meaningful for the authors and audience. I wanted the website to feel energetic, expressive, and emotionally engaging.',
+            'At the time, my understanding of web design was heavily centered around visuals. I was drawn to typography, colors, animations, transitions, and interactive effects. My belief was that if individual sections looked impressive on their own, the overall website experience would naturally come together.',
+            'I also underestimated the complexity of managing a multi-page collaborative project. With more than 20 pages and multiple authors involved, there were many moving pieces that required consistency, organization, and long-term maintainability — concepts I had not yet fully developed as a designer or developer.',
+            'Most importantly, I did not yet understand the importance of restraint. I believed more ideas, more effects, and more features automatically created a better experience.'
+        ],
         frustrations: [
-            'Balancing emotional warmth with modern professionalism',
-            'Avoiding visual clutter while still communicating depth',
-            'Structuring content for users with limited emotional bandwidth',
-            'Creating responsive layouts that maintained softness across devices',
-            'Refining typography hierarchy and spacing consistency',
-            'The challenge was less about complexity and more about restraint.'
+            'I struggled to create boundaries as a designer and developer, often trying to implement every idea or request instead of filtering what actually improved the experience.',
+            'At the time, I lacked the confidence and technical understanding to communicate design limitations clearly.',
+            'I found it personally difficult to say "no" to ideas, even when they conflicted with usability, cohesion, or platform capabilities.',
+            'My focus on animations, effects, and visual excitement often created cluttered or inconsistent experiences.',
+            'The platform provided creative flexibility early on, but became limiting when trying to implement more advanced customization or scalable systems.',
+            'Template dependency restricted deeper frontend control and dynamic functionality.',
+            'Managing more than 20 pages manually became overwhelming and inefficient.',
+            'I lacked a structured design system, which made maintaining visual consistency difficult throughout the site.',
+            'Balancing the goals of 14 different authors, brands, and perspectives within one cohesive experience was challenging.'
+
         ],
 
         solutions: [
-            'Simplifying content structure',
-            'Increasing whitespace and visual breathing room',
-            'Using intentional typography scaling',
-            'Reducing unnecessary visual noise',
-            'Creating clear visual hierarchy',
-            'Maintaining consistency in spacing systems',
-            'Designing modular sections for future scalability',
-            'The final direction prioritized emotional usability as much as technical usability.'
+            'I relied heavily on research, experimentation, and fail-and-learn problem solving throughout the project.',
+            'I utilized platform documentation and user guides, frontend tutorials, and YouTube videos to better understand web design and development principles.',
+            'I began studying responsive design, layout systems, color theory, and user experience more intentionally',
+            'I discovered and incorporated tools that still influence my workflow today, including Excalidraw for visual planning and TPGi Accessibility Testing for accessibility awareness.',
+            'After the original launch, I revisited the project as a personal learning experience rather treating it as a finished project.',
+            'I started rebuilding portions of the site using concepts learned through freeCodeCamp and AI-assisted developement workflows.',
+            'I shifted toward more dynamic and organized web structures to reduce repetitive manual updates.',
+            'Simplifying layouts and reducing unneccesary visual noise created more mental clarity for stronger UI and UX decisions.',
+            'AI tools were used to analyze the website for improvements related to responsiveness, efficiency, cohesion, accessibility, and CTA clarity.',
+            'Revisiting the website helped transform it from a visually experimental website into a foundational learning experience in frontend systems and user-centered design.'
+
         ],
         learned:[
-            'Emotional clarity in design',
-            'Intentional spacing and readability',
-            'Mobile-first responsiveness',
-            'Trust-centered user experience',
-            'Designing for overwhelmed users',
-            'Building calm through interface design',
-            'I also learned how deeply typography, spacing, and color psychology influence how users emotionally interpret a digital experience.'
+        'Strong web design is not created through visuals alone. Typography, colors, and animations only work well when supported by structure, hierarchy, spacing, and cohesion.',
+        'User experience becomes clearer when slowing down and experiencing the website as a visitor instead of only as the builder.',
+        'Responsive design is essential. Layouts and effects that work on one screen size may completely fail on another.',
+        'Multi-page websites require organization and scalable systems to remain maintainable over time.',
+        'Repetitive copy-and-paste workflows increate the likelihood of broken links, misinformation, and inconsistent user experiences.',
+        'Dynamic web building and reusable structures create more efficiency, clarity, and flexibility than static page duplication.',
+        'Accessibility, spacing, and readability play a major role in how users emotionally experience a website.',
+        'Creative experimentation, even when messy, can become the foundation for stronger frontend systems and design thinking.',
+        'Good design often comes from reducing noise rather than continuously adding more features or effects.',
+        'This project introduced me to responsive design principles, color theory, frontend structure, and user-centered thinking.'
         ],
         tools: [
             'React',
@@ -57,7 +67,7 @@ export const projects = [
             'Vite',
             'Responsive Design',
             'Mobile-First Development',
-            'Figma-inspired layout planning',
+            'Wireframing and structural thinking',
             'Git/GitHub',
         ],
     },
