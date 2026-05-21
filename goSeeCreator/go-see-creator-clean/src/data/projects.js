@@ -11,6 +11,8 @@ export const projects = [
             'Rebuilding a collaborative parenting platform in React as a case study in scalable frontend development and emotionally grounded UX.',
         image: calmParentsConfidentKids,
 
+        liveURL: 'https://calm-parents-confident-kids.vercel.app/',
+
         overview: [
             'I took on this project to help support the launch of Calm Parents Confident Kids, a collaborative book written by 14 authors from different professional and personal backgrounds. Each contributor shared their experience with braintraining, the Articulating Reticular System, and the impact those practices had on their mindset, relationships, parenting, and personal growth.',
             'The website served multiple purposes. It introduced the book, highlighted each author, showcased their individual businesses or personal brands, and acted as a central place for visitors to learn more about the project and upcoming launch events. Looking back, it functioned not only as a book launch website, but also as a collaborative marketing campaign.',
@@ -81,11 +83,18 @@ export const projects = [
 
         image: gapsAfrica,
 
+        liveURL: 'https://www.gapsafrica.org',
+
+        gallery: [
+            
+        ]
+
         overview: [
             'The GAPSAFRICA project was a website buildout for a refugee-led community organization based in Nakivale Refugee Settlement, Uganda. The original purpose of the website was to support fundraising and awareness for the 2025 Peace Tournament while also introducing the organization’s mission, history, founder, community projects, and past events.',
             'The website served as both an informational platform and a fundraising tool. It was designed to communicate the organization’s work in a meaningful and accessible way while helping visitors emotionally connect with the impact GAPSAFRICA was creating within the refugee community. The project involved organizing large amounts of scattered information, photographs, event history, and organizational messaging into a structured digital experience that felt clear, intentional, and trustworthy.',
             'My role involved researching, planning, designing, and developing the website while also creating a system that would eventually allow the organization to independently manage and update content without relying on manual hard coding. This included exploring backend solutions, content management workflows, responsive frontend systems, and scalable page structures that could support the organization long-term.',
-            'The project became far more than simply building a website. It evolved into an exercise in narrative architecture, systems thinking, accessibility, stakeholder communication, and designing with empathy across cultural, technical, and language barriers.'
+            'The project became far more than simply building a website. It evolved into an exercise in narrative architecture, systems thinking, accessibility, stakeholder communication, and designing with empathy across cultural, technical, and language barriers.',
+            'One of the most important realizations during development was understanding that the technically most advanced solution was not necessarily the best solution for the organization itself. As the project evolved, I intentionally shifted from a heavier React-based architecture toward a simpler, lower-bandwidth structure that better aligned with accessibility, maintainability, financial limitations, and the realities of the audience and organization.'
         ],
         expectations: [
             'Going into the project, I expected the website to come together relatively quickly. I underestimated both the technical complexity of the build and the amount of problem-solving required to create a scalable, maintainable system that aligned with the organization\'s need.',
@@ -147,6 +156,8 @@ export const projects = [
             'A campaign experience centered around participation, awareness, and collective movement.',
 
         image: stepUpForPeace,
+
+        liveURL: 'https://www.stepupforpeace.gapsafrica.org',
 
         overview: [
             'Step Up for Peace was a campaign website created to support  GAPSAFRICA￼ through community participation, social sharing, and accessible digital engagement. The concept centered around transforming something simple and universally achievable — walking — into a symbolic and collective act of peace, visibility, and support for refugee-led education initiatives in Nakivale Refugee Settlement, Uganda.',
