@@ -42,9 +42,9 @@ export const projects = [
             'I began studying responsive design, layout systems, color theory, and user experience more intentionally',
             'I discovered and incorporated tools that still influence my workflow today, including Excalidraw for visual planning and TPGi Accessibility Testing for accessibility awareness.',
             'After the original launch, I revisited the project as a personal learning experience rather treating it as a finished project.',
-            'I started rebuilding portions of the site using concepts learned through freeCodeCamp and AI-assisted developement workflows.',
+            'I started rebuilding portions of the site using concepts learned through freeCodeCamp and AI-assisted development workflows.',
             'I shifted toward more dynamic and organized web structures to reduce repetitive manual updates.',
-            'Simplifying layouts and reducing unneccesary visual noise created more mental clarity for stronger UI and UX decisions.',
+            'Simplifying layouts and reducing unnccesary visual noise created more mental clarity for stronger UI and UX decisions.',
             'AI tools were used to analyze the website for improvements related to responsiveness, efficiency, cohesion, accessibility, and CTA clarity.',
             'Revisiting the website helped transform it from a visually experimental website into a foundational learning experience in frontend systems and user-centered design.'
 
@@ -54,7 +54,7 @@ export const projects = [
             'User experience becomes clearer when slowing down and experiencing the website as a visitor instead of only as the builder.',
             'Responsive design is essential. Layouts and effects that work on one screen size may completely fail on another.',
             'Multi-page websites require organization and scalable systems to remain maintainable over time.',
-            'Repetitive copy-and-paste workflows increate the likelihood of broken links, misinformation, and inconsistent user experiences.',
+            'Repetitive copy-and-paste workflows increase the likelihood of broken links, misinformation, and inconsistent user experiences.',
             'Dynamic web building and reusable structures create more efficiency, clarity, and flexibility than static page duplication.',
             'Accessibility, spacing, and readability play a major role in how users emotionally experience a website.',
             'Creative experimentation, even when messy, can become the foundation for stronger frontend systems and design thinking.',
@@ -82,13 +82,13 @@ export const projects = [
         image: gapsAfrica,
 
         overview: [
-            'Step Up for Peace was a campaign website created to support  GAPSAFRICA through community participation, social sharing, and accessible digital engagement. The concept centered around transforming something simple and universally achievable — walking — into a symbolic and collective act of peace, visibility, and support for refugee-led education initiatives in Nakivale Refugee Settlement, Uganda.',
-            'The goal of the project was to create a campaign experience that encouraged participation from both donors and non-donors. Instead of limiting impact only to financial contributions, the campaign allowed users to log their steps, generate personalized social media graphics, and share the movement with others regardless of donation status. The idea was that stepping itself represented participation, health, movement, awareness, and collective support.',
-            'The website was intentionally built using lightweight frontend technologies including HTML, CSS, and JavaScript without a backend infrastructure. Rather than developing a full step-tracking application similar to Apple Health or fitness platforms, the project focused on creating an experience that felt simple, accessible, shareable, and emotionally engaging while remaining technically manageable within the scope of the campaign.',
-            'Although the project was relatively simple from a development perspective, it became a strong exercise in campaign thinking, behavioral design, CTA clarity, and understanding how messaging influences participation and emotional connection online.',
+            'The GAPSAFRICA project was a website buildout for a refugee-led community organization based in Nakivale Refugee Settlement, Uganda. The original purpose of the website was to support fundraising and awareness for the 2025 Peace Tournament while also introducing the organization’s mission, history, founder, community projects, and past events.',
+            'The website served as both an informational platform and a fundraising tool. It was designed to communicate the organization’s work in a meaningful and accessible way while helping visitors emotionally connect with the impact GAPSAFRICA was creating within the refugee community. The project involved organizing large amounts of scattered information, photographs, event history, and organizational messaging into a structured digital experience that felt clear, intentional, and trustworthy.',
+            'My role involved researching, planning, designing, and developing the website while also creating a system that would eventually allow the organization to independently manage and update content without relying on manual hard coding. This included exploring backend solutions, content management workflows, responsive frontend systems, and scalable page structures that could support the organization long-term.',
+            'The project became far more than simply building a website. It evolved into an exercise in narrative architecture, systems thinking, accessibility, stakeholder communication, and designing with empathy across cultural, technical, and language barriers.'
         ],
         expectations: [
-            'Going into the project, I expected the website to come together relatively quick. I underestimated both the technical complexity of the build and the amount of problem-solving required to create a scalable, maintainable system that aligned with the organization\'s need.',
+            'Going into the project, I expected the website to come together relatively quickly. I underestimated both the technical complexity of the build and the amount of problem-solving required to create a scalable, maintainable system that aligned with the organization\'s need.',
             'At the time, I was building primarily the React, Tailwind CSS, and related frontend tooling, and I did not fully understand how sensitive framework ecosystems could be to version compatibility and dependency conflicts. A significant amount of development time was spent troubleshooting framework and dependency issues involving React, Tailwind CSS, Vite, deployment environments, and backend integration workflows. Many challenges came from version incompatibilities, build failures, routing issues, and navigating the complexity of creating a scalable frontend and content management structure while still actively learning the ecosystem.',
             'I underestimated the complexity of organizing and translating large amounts of information into a cohesive user experience. Much of the project involved "data dumping" — collecting, sorting, analyzing, and restructuring content until the organization\'s story, goals, and messaging became clearer both to myself and eventually to the user.',
             'Initially, I thought primarily in terms of functionality and visual design. As the project evolved, I began realizing the website also needed to communicate trust, emotional clarity, legitimacy, accessibility, and donor confidence. The experience shifted my understanding of what frontend development actually involves beyond building simple interfaces.'
@@ -107,7 +107,7 @@ export const projects = [
         ],
         solutions: [
             'I began using structured "data dumping" workflows to organize large amounts of content before making design decisions.',
-            'I utilized tools like Excalidraw to may layouty and functionalites, organize page structures, and visually think through frontend systems.',
+            'I utilized tools like Excalidraw to map layouts and functionalites, organize page structures, and visually think through frontend systems.',
             'I conducted extensive research into frontend frameworks, backend systems, deployment workflows, and scalable content architecture.',
             'I explored custom backend and CMS-style approaches to provide the organization with greater autonomy over website updates.',
             'I began prioritizing responsive design, accessibility, readability, and low-bandwidth performance as core parts of the user experience.',
@@ -117,7 +117,7 @@ export const projects = [
         learned: [
             'Narrative architecture plays a major role in fundraising and nonprofit communication.',
             'The way information is organized emotionally affects how users understand trust, urgency, legitimacy, and impact.',
-            'Large amounts of unstructured information require intentional systems for sorting, hierarch, and clarity before meaningful design decisions can happen.',
+            'Large amounts of unstructured information require intentional systems for sorting, hierarchy, and clarity before meaningful design decisions can happen.',
             'Accessibility and low-bandwidth considerations are critical when designing for global and humanitarian audiences.',
             'Responsive design involves more than resizing layouts - it requires understanding how users interact with information across devices and connection limitations.',
             'Dynamic content systems provide organizations with greater autonomy and reduce long-term dependency on developers for updates.',
@@ -149,9 +149,10 @@ export const projects = [
         image: stepUpForPeace,
 
         overview: [
-            'Initially, I expected the campaign to function primarily as a donation-driven step challenge where a certain number of steps directly correlated to a specific donation amount. However, as the concept developed, it became clear that limiting participation to financial giving would reduce accessibility and overall reach.',
-            'The expectation shifted from building a fundraising tool to building a participatory movement that allowed users to contribute regardless of financial circumstance. The campaign needed to feel reciprocal — participants would improve their own health and well-being through movement while simultaneously supporting awareness and peace initiatives connected to GAPSAFRICA.',
-            'From a technical standpoint, I expected the project to remain fairly lightweight and straightforward since it did not involve a backend system, database, or real-time health tracking integration. The larger challenge became less about engineering complexity and more about creating a campaign experience that was emotionally clear, easy to understand, and compelling enough to motivate participation and sharing.'
+            'Step Up for Peace was a campaign website created to support  GAPSAFRICA￼ through community participation, social sharing, and accessible digital engagement. The concept centered around transforming something simple and universally achievable — walking — into a symbolic and collective act of peace, visibility, and support for refugee-led education initiatives in Nakivale Refugee Settlement, Uganda.',
+            'The goal of the project was to create a campaign experience that encouraged participation from both donors and non-donors. Instead of limiting impact only to financial contributions, the campaign allowed users to log their steps, generate personalized social media graphics, and share the movement with others regardless of donation status. The idea was that stepping itself represented participation, health, movement, awareness, and collective support.',
+            'The website was intentionally built using lightweight frontend technologies including HTML, CSS, and JavaScript without a backend infrastructure. Rather than developing a full step-tracking application similar to Apple Health or fitness platforms, the project focused on creating an experience that felt simple, accessible, shareable, and emotionally engaging while remaining technically manageable within the scope of the campaign.',
+            'Although the project was relatively simple from a development perspective, it became a strong exercise in campaign thinking, behavioral design, CTA clarity, and understanding how messaging influences participation and emotional connection online.'
         ],
         expectations: [
             'Initially, I expected the campaign to function primarily as a donation-driven step challenge where a certain number of steps directly correlated to a specific donation amount. However, as the concept developed, it became clear that limiting participation to financial giving would reduce accessibility and overall reach.',
