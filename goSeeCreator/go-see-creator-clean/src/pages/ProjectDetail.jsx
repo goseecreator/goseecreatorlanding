@@ -126,8 +126,7 @@ export default function ProjectDetail() {
                   key={item}
                   className="flex gap-4"
                 >
-                  <span className="mt-2 h-2 w-2 rounded-full bg-[#8b5fbf]" />
-
+<span className="mt-2 h-2 w-2 shrink-0 rounded-full bg-[#8b5fbf]" />
                   <span className="text-[#5f5566]">
                     {item}
                   </span>
@@ -153,8 +152,7 @@ export default function ProjectDetail() {
                   key={item}
                   className="flex gap-4"
                 >
-                  <span className="mt-2 h-2 w-2 rounded-full bg-[#8b5fbf]" />
-
+<span className="mt-2 h-2 w-2 shrink-0 rounded-full bg-[#8b5fbf]" />
                   <span className="text-[#5f5566]">
                     {item}
                   </span>
@@ -180,8 +178,7 @@ export default function ProjectDetail() {
                   key={item}
                   className="flex gap-4"
                 >
-                  <span className="mt-2 h-2 w-2 rounded-full bg-[#8b5fbf]" />
-
+<span className="mt-2 h-2 w-2 shrink-0 rounded-full bg-[#8b5fbf]" />
                   <span className="text-[#5f5566]">
                     {item}
                   </span>
