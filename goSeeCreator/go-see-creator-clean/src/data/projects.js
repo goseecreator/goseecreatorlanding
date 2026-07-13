@@ -87,7 +87,7 @@ export const projects = [
 
         gallery: [
             
-        ]
+        ],
 
         overview: [
             'The GAPSAFRICA project was a website buildout for a refugee-led community organization based in Nakivale Refugee Settlement, Uganda. The original purpose of the website was to support fundraising and awareness for the 2025 Peace Tournament while also introducing the organization’s mission, history, founder, community projects, and past events.',

@@ -15,8 +15,7 @@ export default function App() {
   const [menuOpen, setMenuOpen] = useState(false)
 
   return (
-    <main className="min-h-screen bg-[#f7f2fa] text-[#2c2433]">
-
+<main className="min-h-[100svh] bg-[#f7f2fa] text-[#2c2433]">
       {/* NAVBAR */}
 
       <header className="fixed top-0 z-50 w-full border-b border-white/10 bg-[#2d1b3d]/80 backdrop-blur-xl">
@@ -113,8 +112,7 @@ export default function App() {
       {/* HERO */}
 
       <section
-        className="relative flex min-h-screen items-center overflow-hidden px-6 md:px-12"
-        style={{
+  className="relative flex min-h-[100svh] items-center overflow-hidden px-6 pb-16 pt-28 md:px-12 md:pt-32"        style={{
           backgroundImage:
             'linear-gradient(rgba(45,27,61,.6), rgba(45,27,61,.85)), url(https://images.unsplash.com/photo-1493246507139-91e8fad9978e?q=80&w=1600&auto=format&fit=crop)',
           backgroundSize: 'cover',
